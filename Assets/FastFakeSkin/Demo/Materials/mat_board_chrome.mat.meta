@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7f0c380f45edd7a45a6d45b2cc9a72b9
+labels:
+- material
+timeCreated: 1437925977
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 42535
+  packageName: Fast Fake Skin
+  packageVersion: 3.0.0
+  assetPath: Assets/FastFakeSkin/Demo/Materials/mat_board_chrome.mat
+  uploadId: 385383

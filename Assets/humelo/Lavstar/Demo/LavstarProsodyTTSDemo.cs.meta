@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6a21850f28e749745ae9a53780f836d8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166516
+  packageName: Lavstar (Lip-audio-visualization-STAR)
+  packageVersion: 1.0
+  assetPath: Assets/humelo/Lavstar/Demo/LavstarProsodyTTSDemo.cs
+  uploadId: 362118

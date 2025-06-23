@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4806ba4dab4887849abc6ddd273d96a2
+timeCreated: 1597265367
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 42535
+  packageName: Fast Fake Skin
+  packageVersion: 3.0.0
+  assetPath: Assets/FastFakeSkin/Demo/Materials/hand_skmat_multi.mat
+  uploadId: 385383

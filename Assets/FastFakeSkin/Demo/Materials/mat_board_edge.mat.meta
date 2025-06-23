@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ba77b6bf20792f04f915acabfaeb8f0b
+labels:
+- material
+timeCreated: 1437925641
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 42535
+  packageName: Fast Fake Skin
+  packageVersion: 3.0.0
+  assetPath: Assets/FastFakeSkin/Demo/Materials/mat_board_edge.mat
+  uploadId: 385383

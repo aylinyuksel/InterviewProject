@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6198fe62f36b3424d94976ab0df611d4
+labels:
+- material
+timeCreated: 1437925641
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 42535
+  packageName: Fast Fake Skin
+  packageVersion: 3.0.0
+  assetPath: Assets/FastFakeSkin/Demo/Materials/mat_board_board.mat
+  uploadId: 385383

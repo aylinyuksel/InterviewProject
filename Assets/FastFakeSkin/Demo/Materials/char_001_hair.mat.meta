@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f338504c74f97824ead172ce6c1374cf
+labels:
+- material
+timeCreated: 1437911310
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 42535
+  packageName: Fast Fake Skin
+  packageVersion: 3.0.0
+  assetPath: Assets/FastFakeSkin/Demo/Materials/char_001_hair.mat
+  uploadId: 385383

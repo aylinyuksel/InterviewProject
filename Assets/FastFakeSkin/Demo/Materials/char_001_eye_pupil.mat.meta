@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7a96c8368e17b1a41bb2bb49f052b985
+labels:
+- material
+timeCreated: 1437911310
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 42535
+  packageName: Fast Fake Skin
+  packageVersion: 3.0.0
+  assetPath: Assets/FastFakeSkin/Demo/Materials/char_001_eye_pupil.mat
+  uploadId: 385383

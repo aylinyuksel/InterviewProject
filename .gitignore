@@ -1,0 +1,31 @@
+# Derleme klasörleri
+bin/
+obj/
+
+# Kullanıcı ayar dosyaları
+*.user
+*.suo
+
+# Unity spesifik dosyalar
+Library/
+Temp/
+Build/
+Builds/
+Logs/
+MemoryCaptures/
+obj/
+*.csproj
+*.unityproj
+*.sln
+*.userprefs
+
+# Visual Studio Code ayarları
+.vscode/
+
+# Gizli anahtarlar
+apikeys.json
+appsettings.json
+
+# Diğer sistem dosyaları
+.DS_Store
+Thumbs.db

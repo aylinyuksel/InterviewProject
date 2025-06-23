@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9167829f3de7c3545a1abbbd1d08de32
+labels:
+- script
+timeCreated: 1437929993
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 42535
+  packageName: Fast Fake Skin
+  packageVersion: 3.0.0
+  assetPath: Assets/FastFakeSkin/Demo/Code/LightMover.cs
+  uploadId: 385383

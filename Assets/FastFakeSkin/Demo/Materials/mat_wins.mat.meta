@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d6cc23708be873c4a873a0c78ecbf752
+labels:
+- material
+timeCreated: 1437926829
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 42535
+  packageName: Fast Fake Skin
+  packageVersion: 3.0.0
+  assetPath: Assets/FastFakeSkin/Demo/Materials/mat_wins.mat
+  uploadId: 385383

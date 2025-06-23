@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 30ba89477c74d744588537aa75ac883e
+labels:
+- material
+timeCreated: 1437925641
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 42535
+  packageName: Fast Fake Skin
+  packageVersion: 3.0.0
+  assetPath: Assets/FastFakeSkin/Demo/Materials/mat_plaster.mat
+  uploadId: 385383

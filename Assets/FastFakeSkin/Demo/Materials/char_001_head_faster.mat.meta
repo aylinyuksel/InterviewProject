@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b516e99518125cf47b7e150e7f9ce0a7
+labels:
+- material
+timeCreated: 1437943787
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 42535
+  packageName: Fast Fake Skin
+  packageVersion: 3.0.0
+  assetPath: Assets/FastFakeSkin/Demo/Materials/char_001_head_faster.mat
+  uploadId: 385383

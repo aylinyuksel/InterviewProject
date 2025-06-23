@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 29117dac20cb49e49b06043e6c00595a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166516
+  packageName: Lavstar (Lip-audio-visualization-STAR)
+  packageVersion: 1.0
+  assetPath: Assets/humelo/Lavstar/Scripts/LavstarLipsyncForBS.cs
+  uploadId: 362118

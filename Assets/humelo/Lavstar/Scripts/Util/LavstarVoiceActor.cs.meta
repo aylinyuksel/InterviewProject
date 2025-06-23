@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: eadc68fb3223afe40a633056e8805ede
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166516
+  packageName: Lavstar (Lip-audio-visualization-STAR)
+  packageVersion: 1.0
+  assetPath: Assets/humelo/Lavstar/Scripts/Util/LavstarVoiceActor.cs
+  uploadId: 362118

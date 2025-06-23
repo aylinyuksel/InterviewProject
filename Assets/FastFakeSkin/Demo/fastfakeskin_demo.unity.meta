@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d3272a08fe2737d49bb96e6beae3b49b
+labels:
+- scene
+timeCreated: 1437926353
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 42535
+  packageName: Fast Fake Skin
+  packageVersion: 3.0.0
+  assetPath: Assets/FastFakeSkin/Demo/fastfakeskin_demo.unity
+  uploadId: 385383

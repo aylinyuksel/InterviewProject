@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3cce7737682115d408c9b642e006a9a4
+labels:
+- material
+timeCreated: 1437911310
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 42535
+  packageName: Fast Fake Skin
+  packageVersion: 3.0.0
+  assetPath: Assets/FastFakeSkin/Demo/Materials/char_001_eyelashes.mat
+  uploadId: 385383
