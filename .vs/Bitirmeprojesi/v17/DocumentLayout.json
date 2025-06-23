@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{BCBD6377-EF96-125E-A473-3AC53C33CE3B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loginregistermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCBD6377-EF96-125E-A473-3AC53C33CE3B}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\bitirmeprojesi\\assets\\scripts\\interviewmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BCBD6377-EF96-125E-A473-3AC53C33CE3B}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\Bitirmeprojesi\\assets\\scripts\\interviewmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BCBD6377-EF96-125E-A473-3AC53C33CE3B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interviewmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,7 +27,7 @@
       "RelativeMoniker": "D:0:0:{BCBD6377-EF96-125E-A473-3AC53C33CE3B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\elevenlabstts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCBD6377-EF96-125E-A473-3AC53C33CE3B}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\bitirmeprojesi\\assets\\resources\\apikeymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BCBD6377-EF96-125E-A473-3AC53C33CE3B}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\Bitirmeprojesi\\assets\\resources\\apikeymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BCBD6377-EF96-125E-A473-3AC53C33CE3B}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\apikeymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -42,23 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
             },
             {
               "$type": "Document",
@@ -74,6 +62,18 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "InterviewManager.cs",
@@ -83,8 +83,7 @@
               "RelativeToolTip": "Assets\\Scripts\\InterviewManager.cs",
               "ViewState": "AgIAAIIAAAAAAAAAAAAkwI8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T13:16:13.538Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T13:16:13.538Z"
             },
             {
               "$type": "Document",
@@ -96,8 +95,7 @@
               "RelativeToolTip": "Assets\\Scripts\\LoginRegisterManager.cs",
               "ViewState": "AgIAAFgAAAAAAAAAAAAkwGEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T10:31:59.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T10:31:59.392Z"
             },
             {
               "$type": "Document",
@@ -109,8 +107,7 @@
               "RelativeToolTip": "Assets\\Scripts\\ScoreSummaryUI.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T15:24:03.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T15:24:03.098Z"
             },
             {
               "$type": "Document",
@@ -122,8 +119,7 @@
               "RelativeToolTip": "Assets\\Scripts\\ChatGPTConnector.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T13:24:42.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T13:24:42.928Z"
             },
             {
               "$type": "Document",
@@ -135,8 +131,7 @@
               "RelativeToolTip": "Assets\\Scripts\\ElevenLabsTTS.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAkwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T13:24:41.382Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T13:24:41.382Z"
             },
             {
               "$type": "Document",
@@ -148,8 +143,7 @@
               "RelativeToolTip": "Assets\\Resources\\APIKeyManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T08:32:20.879Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T08:32:20.879Z"
             },
             {
               "$type": "Document",
