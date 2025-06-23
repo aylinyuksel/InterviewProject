@@ -29,4 +29,12 @@ InterviewProject, yapay zeka destekli interaktif mülakat avatarı geliştirmeyi
 ## Avatar Tasarımı
 ![Avatar Image](images/avatar.png)
 
+## Swagger Arayüzü
+Aşağıdaki görselde, projemizde kullanılan ASP.NET Core Web API'nin Swagger arayüzü gösterilmektedir.  
+Swagger, API uç noktalarının dokümantasyonu ve test edilmesi için kullanılan popüler bir araçtır.  
+Bu arayüz sayesinde, API fonksiyonlarını kolayca keşfedebilir ve test edebilirsiniz.
+  
+![API Swagger UI](images/api.png)
+
+
 
