@@ -1,3 +1,5 @@
+InterviewProject
+
 InterviewProject, yapay zeka destekli interaktif mülakat avatarı geliştirmeyi amaçlayan yenilikçi bir uygulamadır. Proje, gerçekçi mülakat deneyimi sağlamak için Unity oyun motoru tabanlı görsel avatarlar ile ASP.NET Core Web API tabanlı güçlü bir backend servisinden oluşmaktadır.
 
 Proje Özellikleri
@@ -16,5 +18,5 @@ Mülakat soruları, kullanıcı yönetimi ve veri tabanı işlemleri için RESTf
 
 SQL Server
 Kullanıcı profilleri, mülakat kayıtları ve analiz verilerini depolar.
-![DATABASE-ER DIAGRAM](images/ekran_goruntusu.png)
+![DATABASE-ER DIAGRAM](images/ER_diagram.png)
 
