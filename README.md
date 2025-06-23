@@ -26,3 +26,7 @@ InterviewProject, yapay zeka destekli interaktif mülakat avatarı geliştirmeyi
 
 ![Database ER Diagram](images/database_er_diagram.png)
 
+## Avatar Tasarımı
+![Avatar Image](images/avatar.png)
+
+
