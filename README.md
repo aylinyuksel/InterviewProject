@@ -24,8 +24,5 @@ InterviewProject, yapay zeka destekli interaktif mülakat avatarı geliştirmeyi
 
 ## Veritabanı Diyagramı
 
-ER diagramı projenin `images` klasöründe `database_er_diagram.png` olarak bulunmaktadır:
-
-```markdown
 ![Database ER Diagram](images/database_er_diagram.png)
 
