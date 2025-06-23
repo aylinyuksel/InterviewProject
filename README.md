@@ -28,3 +28,4 @@ ER diagramı projenin `images` klasöründe `database_er_diagram.png` olarak bul
 
 ```markdown
 ![Database ER Diagram](images/database_er_diagram.png)
+
