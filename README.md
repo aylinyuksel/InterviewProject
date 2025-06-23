@@ -1,30 +1,38 @@
 # InterviewProject
 
-InterviewProject is an innovative application aimed at developing an AI-powered interactive interview avatar.
-The project consists of a powerful backend service built with ASP.NET Core Web API and visually rich avatars created using the Unity game engine, providing a realistic interview experience.
+## Project Features
 
-Project Features
-Realistic Avatars and Animations: 3D avatars and smooth animations developed with Unity.
+- **Realistic Avatars and Animations**  
+  3D avatars and smooth animations developed using the Unity engine to create an immersive interview experience.
 
-AI-Powered Question Management: Dynamic interview scenarios managed via API integration.
+- **AI-Powered Question Management**  
+  Interview questions and dialogue flow are dynamically generated and managed through API integration.
 
-Customizable Interview Scenarios: Adaptable to different industries and job positions.
+- **Customizable Interview Scenarios**  
+  Flexible interview structures that can be tailored based on industry and job roles.
 
-Database Integration: User and performance data stored securely with SQL Server.
+- **Database Integration**  
+  Secure storage of user information, interview results, and analytics using SQL Server.
 
-Advanced Authentication: Secure user management provided through the API.
+- **Advanced Authentication**  
+  Secure and efficient user authentication and authorization through the API layer.
 
-Project Components
-Unity Project: Creates the 3D avatars, animations, and user interface for the interview environment.
+## Project Components
 
-ASP.NET Core Web API: Provides RESTful services for question delivery, user operations, and database communication.
+- **Unity Project**  
+  Responsible for the 3D avatar design, animations, and the user interface that simulates the interview environment.
 
-SQL Server: Manages and stores user profiles, interview history, and analytics data.
+- **ASP.NET Core Web API**  
+  Handles backend operations including user management, question delivery, and database interaction via RESTful services.
 
-LLM API (ChatGPT 3.5 Turbo): Utilized for generating dynamic interview questions and guiding responses with AI-powered natural language capabilities.
+- **SQL Server**  
+  Stores and manages structured data such as user profiles, interview sessions, and evaluation results.
 
-ElevenLabs TTS (Text-to-Speech): Integrated for converting AI-generated text into lifelike voice responses for the avatar.
+- **LLM API (ChatGPT 3.5 Turbo)**  
+  Integrates OpenAI’s language model to generate intelligent, real-time interview questions and responses.
 
+- **ElevenLabs TTS (Text-to-Speech)**  
+  Converts AI-generated text responses into realistic speech for avatar communication.
 
 
 ---
