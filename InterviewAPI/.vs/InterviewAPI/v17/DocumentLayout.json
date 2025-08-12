@@ -1,7 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\laian\\Desktop\\Yaman\\projects\\dismulakatuygulamasi\\InterviewProject\\InterviewAPI\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\okan\\Desktop\\design\\InterviewProject\\InterviewAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFB5095-3086-44E6-8B3E-8844419F8493}|InterviewAPI.csproj|c:\\users\\okan\\desktop\\design\\interviewproject\\interviewapi\\appsettings.json.bak||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7CFB5095-3086-44E6-8B3E-8844419F8493}|InterviewAPI.csproj|solutionrelative:appsettings.json.bak||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFB5095-3086-44E6-8B3E-8844419F8493}|InterviewAPI.csproj|c:\\users\\okan\\desktop\\design\\interviewproject\\interviewapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7CFB5095-3086-44E6-8B3E-8844419F8493}|InterviewAPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFB5095-3086-44E6-8B3E-8844419F8493}|InterviewAPI.csproj|c:\\users\\okan\\desktop\\design\\interviewproject\\interviewapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7CFB5095-3086-44E6-8B3E-8844419F8493}|InterviewAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFB5095-3086-44E6-8B3E-8844419F8493}|InterviewAPI.csproj|c:\\users\\okan\\desktop\\design\\interviewproject\\interviewapi\\interviewapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7CFB5095-3086-44E6-8B3E-8844419F8493}|InterviewAPI.csproj|solutionrelative:interviewapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFB5095-3086-44E6-8B3E-8844419F8493}|InterviewAPI.csproj|c:\\users\\okan\\desktop\\design\\interviewproject\\interviewapi\\interviewapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7CFB5095-3086-44E6-8B3E-8844419F8493}|InterviewAPI.csproj|solutionrelative:interviewapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFB5095-3086-44E6-8B3E-8844419F8493}|InterviewAPI.csproj|c:\\users\\okan\\desktop\\design\\interviewproject\\interviewapi\\interviewapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7CFB5095-3086-44E6-8B3E-8844419F8493}|InterviewAPI.csproj|solutionrelative:interviewapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFB5095-3086-44E6-8B3E-8844419F8493}|InterviewAPI.csproj|c:\\users\\okan\\desktop\\design\\interviewproject\\interviewapi\\interviewapi\\interviewapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7CFB5095-3086-44E6-8B3E-8844419F8493}|InterviewAPI.csproj|solutionrelative:interviewapi\\interviewapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,15 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json.bak",
+              "DocumentMoniker": "C:\\Users\\okan\\Desktop\\design\\InterviewProject\\InterviewAPI\\appsettings.json.bak",
+              "RelativeDocumentMoniker": "appsettings.json.bak",
+              "ToolTip": "C:\\Users\\okan\\Desktop\\design\\InterviewProject\\InterviewAPI\\appsettings.json.bak",
+              "RelativeToolTip": "appsettings.json.bak",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-12T13:36:29.747Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\okan\\Desktop\\design\\InterviewProject\\InterviewAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\okan\\Desktop\\design\\InterviewProject\\InterviewAPI\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-12T13:31:09.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\okan\\Desktop\\design\\InterviewProject\\InterviewAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\okan\\Desktop\\design\\InterviewProject\\InterviewAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-12T13:06:34.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InterviewAPI.http",
+              "DocumentMoniker": "C:\\Users\\okan\\Desktop\\design\\InterviewProject\\InterviewAPI\\InterviewAPI.http",
+              "RelativeDocumentMoniker": "InterviewAPI.http",
+              "ToolTip": "C:\\Users\\okan\\Desktop\\design\\InterviewProject\\InterviewAPI\\InterviewAPI.http",
+              "RelativeToolTip": "InterviewAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-12T13:06:25.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\okan\\Desktop\\design\\InterviewProject\\InterviewAPI\\InterviewAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "InterviewAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\okan\\Desktop\\design\\InterviewProject\\InterviewAPI\\InterviewAPI\\appsettings.Development.json",
+              "RelativeToolTip": "InterviewAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-12T13:05:53.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\okan\\Desktop\\design\\InterviewProject\\InterviewAPI\\InterviewAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "InterviewAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\okan\\Desktop\\design\\InterviewProject\\InterviewAPI\\InterviewAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "InterviewAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-12T13:05:28.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InterviewAPI.http",
+              "DocumentMoniker": "C:\\Users\\okan\\Desktop\\design\\InterviewProject\\InterviewAPI\\InterviewAPI\\InterviewAPI.http",
+              "RelativeDocumentMoniker": "InterviewAPI\\InterviewAPI.http",
+              "ToolTip": "C:\\Users\\okan\\Desktop\\design\\InterviewProject\\InterviewAPI\\InterviewAPI\\InterviewAPI.http",
+              "RelativeToolTip": "InterviewAPI\\InterviewAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-12T13:04:39.628Z"
             }
           ]
         }
