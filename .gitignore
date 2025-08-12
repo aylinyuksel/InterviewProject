@@ -34,3 +34,4 @@ YapayZeka_Mülakaatson
 
 # Visual Studio cache folder
 .vs/
+*appsettings.json
