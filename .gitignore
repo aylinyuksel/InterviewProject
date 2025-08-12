@@ -1,35 +1,36 @@
-# Derleme klasörleri
-bin/
-obj/
+# Build folders
+[Bb]in/
+[Oo]bj/
 
-# Kullanıcı ayar dosyaları
+# User-specific Visual Studio files
 *.user
 *.suo
-
-# Unity spesifik dosyalar
-Library/
-Temp/
-Build/
-Builds/
-Logs/
-MemoryCaptures/
-obj/
-*.csproj
-*.unityproj
-*.sln
 *.userprefs
 
-# Visual Studio Code ayarları
+# Unity-specific folders
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Keep .csproj & .sln in git (don’t ignore them!)
+
+# Visual Studio Code settings
 .vscode/
 
-# Gizli anahtarlar
+# Secrets (these should be stored securely, not in git)
 apikeys.json
 appsettings.json
 
-# Diğer sistem dosyaları
+# OS-generated files
 .DS_Store
 Thumbs.db
 
-
+# Project-specific large or temp folders
 YapayZeka_Mülakaat
 YapayZeka_Mülakaatson
+
+# Visual Studio cache folder
+.vs/
