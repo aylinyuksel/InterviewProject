@@ -48,12 +48,6 @@ public class InterviewManager : MonoBehaviour
                 var json = request.downloadHandler.text;
                 var questionList = JsonConvert.DeserializeObject<List<QuestionDto>>(json);
 
-                if (questionList == null || questionList.Count == 0)
-                {
-                    questionText.text = "API’den soru gelmedi.";
-                    yield break;
-                }
-
                 var shuffled = questionList.OrderBy(q => UnityEngine.Random.value).Take(4).ToList();
 
                 for (int i = 0; i < shuffled.Count; i++)
@@ -61,10 +55,8 @@ public class InterviewManager : MonoBehaviour
                     questions.Add($"{i + 1}. {shuffled[i].questionText}");
                 }
 
-                currentQuestionIndex = 0;
                 ShowQuestion();
             }
-
             else
             {
                 questionText.text = "Sorular yüklenemedi: " + request.error;
@@ -74,24 +66,10 @@ public class InterviewManager : MonoBehaviour
 
     private void ShowQuestion()
     {
-        if (questions == null || questions.Count == 0)
-        {
-            Debug.LogError("ShowQuestion: Soru listesi boþ!");
-            questionText.text = "Henüz yüklenmiþ soru yok.";
-            return;
-        }
-
-        if (currentQuestionIndex < 0 || currentQuestionIndex >= questions.Count)
-        {
-            Debug.LogError($"ShowQuestion: Geçersiz index ({currentQuestionIndex}). Toplam soru: {questions.Count}");
-            return;
-        }
-
         questionText.text = questions[currentQuestionIndex];
         if (elevenLabs != null)
             elevenLabs.Speak(questions[currentQuestionIndex]);
     }
-
 
     public void SubmitAnswer()
     {
